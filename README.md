@@ -1,2 +1,2 @@
 # Plot3d
- Swift Package for Plot3D
+ Plot3D is an iOS framework for plotting data in 3D created by Shant Tokatyan. Since it was available only as a pod which could be installed through CocoaPods, I created a Swift package for it called Plot3d. Now, it can also be installed through the Swift Package Manager (SPM) which offers native Xcode integration. This provides better compatibility with Apple platforms, easier dependency management, and alignment with the modern Swift ecosystem. The link to the original Plot3D pod is here: https://github.com/stokatyan/Plot3D.
